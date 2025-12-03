@@ -5,6 +5,8 @@ MySQL as the database. The system provides separate user and admin
 workflows, allowing students to apply for room bookings and passes while
 giving administrators full control over hostel operations.
 
+## ScreenShots
+
 ![Admin Dashboard](images/dashboard.png)
 ![Admin Pass Approval Page](images/passApproval.png)
 ![Admin Manage Rooms](images/rooms.png)
